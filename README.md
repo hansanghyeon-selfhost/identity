@@ -8,4 +8,6 @@ Authelia
 
 Authentik
 
+- document가 친절하다. 자료가 많다. https://docs.goauthentik.io/docs/install-config/install/docker-compose
+
 Keyclock
